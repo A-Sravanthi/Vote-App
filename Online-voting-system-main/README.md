@@ -33,8 +33,6 @@ SECRET = 'ARandomGenratedkeyByusertokeephisauthenticationsecure'
 
 I'm Sravanthi,an undergraduate student studying Computer Science at IIIT, Gwalior with an Active interest in Competitive Programming and building Web Apps(MERN stack). Do checkout my portfolio and connect with me on LinkedIn.
 
-### Connect with me :
 
-[![gmail]
-[![linkedin]
-[![portfolio]
+
+
